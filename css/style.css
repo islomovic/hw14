@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:blanchedalmond;
+}
+.header{
+    
+
+    font-style: italic;
+}
+.bg-primary{
+    width: 1400px;
+display: flex;
+justify-content: center;
+}
+.bg-primaryy{
+    
+    position: absolute;
+    top: 90px;
+    left: 22px;
+    width: 206px;
+    height: 360px;
+    background-color: brown;
+    border-radius: 13px;
+
+}
+.buy{
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+    width: auto;
+    height: auto;
+    background-color: burlywood;
+    font-style: italic;
+    
+}
+.airpods{
+    position: relative;
+    left: 530px;
+    top: 22px;
+    width: 226px;
+    height: 395px;
+    background-color:brown;
+    border-radius: 13px;
+}
+.watch{
+    position: relative  ;
+left: 960px;
+top: -370px;
+width: 206px;
+height: 395px;
+background-color:brown;
+border-radius: 13px;
+
+}
+.foot{
+    position:absolute ;
+    top: 600px;
+    height: 260px;
+    width: 1400px;
+    background-color:cornflowerblue;
+}
+.number{
+    position:absolute;
+    left: 280px;
+top: 6px;
+}
+.teleg{
+    position: absolute;
+    left: 400px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.buy{
+    text-decoration: none;
+}
